@@ -17,4 +17,7 @@ def phone_route_cost_check(filename, number):
 
 # print out the number of the phone numbers
 
-phone_route_cost_check("phone-numbers-100.txt", '+14105547746')
+phone_route_cost_check("route-costs-100.txt", '+14105547746')
+# routefile = open("route-costs-106000.txt").read().split("\n")
+# phonenum = "+861721532"
+# print("Looking for", phonenum)
